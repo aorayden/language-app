@@ -1,5 +1,5 @@
 name: language_app
-description: "A mobile application for Championship."
+description: "Mobile app for the championship."
 version: 1.0.0+1
 
 environment:
